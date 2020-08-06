@@ -1,0 +1,22 @@
+D:\BITM\Project\Babu\StockDBApp\StockDBApp\bin\StockDBApp.dll.config
+D:\BITM\Project\Babu\StockDBApp\StockDBApp\bin\StockDBApp.dll
+D:\BITM\Project\Babu\StockDBApp\StockDBApp\bin\StockDBApp.pdb
+D:\BITM\Project\Babu\StockDBApp\StockDBApp\obj\Debug\StockDBApp.dll
+D:\BITM\Project\Babu\StockDBApp\StockDBApp\obj\Debug\StockDBApp.pdb
+D:\BITM\Project\Babu\StockDBApp\StockDBApp\obj\Debug\StockDBApp.csprojResolveAssemblyReference.cache
+E:\BITM Training File\BITM Project-1\Project1\StockDBApp\StockDBApp\bin\StockDBApp.dll.config
+E:\BITM Training File\BITM Project-1\Project1\StockDBApp\StockDBApp\bin\StockDBApp.dll
+E:\BITM Training File\BITM Project-1\Project1\StockDBApp\StockDBApp\bin\StockDBApp.pdb
+E:\BITM Training File\BITM Project-1\Project1\StockDBApp\StockDBApp\obj\Debug\StockDBApp.dll
+E:\BITM Training File\BITM Project-1\Project1\StockDBApp\StockDBApp\obj\Debug\StockDBApp.pdb
+D:\BITM\Project\StockDBApp\StockDBApp\bin\StockDBApp.dll.config
+D:\BITM\Project\StockDBApp\StockDBApp\bin\StockDBApp.dll
+D:\BITM\Project\StockDBApp\StockDBApp\bin\StockDBApp.pdb
+D:\BITM\Project\StockDBApp\StockDBApp\obj\Debug\StockDBApp.dll
+D:\BITM\Project\StockDBApp\StockDBApp\obj\Debug\StockDBApp.pdb
+C:\Users\User\Desktop\Final Project\StockDBApp\StockDBApp\bin\StockDBApp.dll.config
+C:\Users\User\Desktop\Final Project\StockDBApp\StockDBApp\bin\StockDBApp.dll
+C:\Users\User\Desktop\Final Project\StockDBApp\StockDBApp\bin\StockDBApp.pdb
+C:\Users\User\Desktop\Final Project\StockDBApp\StockDBApp\obj\Debug\StockDBApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Final Project\StockDBApp\StockDBApp\obj\Debug\StockDBApp.dll
+C:\Users\User\Desktop\Final Project\StockDBApp\StockDBApp\obj\Debug\StockDBApp.pdb
